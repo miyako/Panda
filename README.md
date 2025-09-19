@@ -1,2 +1,1 @@
 # ぱんだ🐼
-dependency demo
