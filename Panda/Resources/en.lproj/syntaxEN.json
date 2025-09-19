@@ -1,0 +1,23 @@
+{
+	"_method_": {},
+	"cs.Panda": {
+		"Info": {
+			"new()": {
+				"Syntax": "**.new**()",
+				"Params": [],
+				"Summary": ""
+			}
+		}
+	},
+	"Info": {
+		"version": {
+			"Syntax": "version : Text"
+		},
+		"description": {
+			"Syntax": "description : Text"
+		},
+		"name": {
+			"Syntax": "name : Text"
+		}
+	}
+}
